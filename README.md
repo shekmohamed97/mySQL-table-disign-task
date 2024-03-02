@@ -1,1 +1,1 @@
-this repisitore is i'll creating the table disign and jion the all the tables . 1. i'll creating the mentors , learners table,course table,task table,mark table,bach table.2.then i'll join the all table 
+this repisitore is i'll creating the table disign and jion the all the tables . 1. i'll creating the mentors , learners table,course table,task table,mark table,bach table. 2. then i'll join the all table 
